@@ -11,4 +11,10 @@ public class Test1 {
         //</editor-fold>
         System.out.println("from dell");
     }
+
+    public void Branch(){
+        for (int i = 0; i < 1; i++) {
+            System.out.println("from branch code");
+        }
+    }
 }
